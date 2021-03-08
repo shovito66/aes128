@@ -1,0 +1,4 @@
+Two One Nine Ab Cd ABBA babab love
+
+Often one might need to read the entire content of a text file (or flat file) at once in python. 
+In this post, we showed an example of reading the whole file and reading a text file line by line. Here is another way to import the entire content of a text file.
